@@ -1,4 +1,4 @@
-version=0.7.7.1.67
+version=0.7.7.2.4
 format=gcup
 file=update.gcup
 size=31560258
